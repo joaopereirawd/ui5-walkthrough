@@ -17,8 +17,8 @@ sap.ui.define([
       MessageToast.show(sMsg, {
         duration: 3000,                  // default
         width: "15em",                   // default
-        my: "center center",             // default
-        at: "center center",             // default
+        my: "center bottom",             // default
+        at: "center bottom",             // default
         of: window,                      // default
         offset: "0 0",                   // default
         collision: "fit fit",            // default
