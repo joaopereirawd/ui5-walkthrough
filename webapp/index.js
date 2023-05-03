@@ -10,5 +10,5 @@ sap.ui.define([
             id: "walkthrough"
         },
         async: true
-    }).placeAt("wrapper");
+    }).placeAt("content");
 });
